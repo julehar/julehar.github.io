@@ -1,0 +1,21 @@
+
+  
+  body {font-family: Arial, Helvetica, sans-serif;}
+  
+  header {background-color: rgb(142, 143, 238); padding: 20px;
+    text-align: center;
+    font-size: 35px;
+    color: black;}
+
+  h2 {text-align: center; background-color: rgb(142, 143, 238);padding: 20px;}
+  
+  nav {background: #ccc;
+    padding: 20px;}
+  
+  nav ul {list-style-type: none;
+    padding: 0;}
+  
+  footer {background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;}
