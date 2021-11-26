@@ -1,10 +1,10 @@
 body {background: rgb(231, 204, 204); color: black;}
 h1 {font-size: 30px;}
-p {font-size: 16px;}
+p {font-size: 16px;background: rgb(70, 62, 62); color: white;}
 div {border-style: solid; border-width: 2px; 
     height: 50px; 
 padding: 10px;}
 ol {list-style-type: upper-alpha;}
 ul {list-style-type: square;}
 .parakaks {border: 2px solid red;
-    border-radius: 5px;}
+    border-radius: 5px;background: rgb(241, 125, 125); color: white;}
