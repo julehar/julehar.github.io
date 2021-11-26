@@ -6,3 +6,5 @@ div {border-style: solid; border-width: 2px;
 padding: 10px;}
 ol {list-style-type: upper-alpha;}
 ul {list-style-type: square;}
+.parakaks {border: 2px solid red;
+    border-radius: 5px;}
